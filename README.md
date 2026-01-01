@@ -18,25 +18,27 @@ We have computationally proven that a **Single Mathematical Kernel (ROA Phase-Lo
 ### **[A] PHYSICS: Collapsing the Rendezvous Lower Bound**
 * **Problem:** Symmetric Rendezvous Search (Alpern's Lower Bound).
 * **ROA Solution:** Agents function as "Roughness Fields". Through constructive interference, they bridge the search space instantly.
-* **Result:** **$T \approx 0.00100$** (Classical limit collapsed)
-![Physics Graph]
-(img width="854" height="547" alt="Physics-Rendezvous Search(Collapsing Lower Bound)" src="https://github.com/user-attachments/assets/93f9af80-3d90-4594-89fa-7a8a66bc13a0" /)
+* **Result:**
+ **$T \approx 0.00100$** (Classical limit collapsed)
+<img width="854" height="547" alt="Physics-Rendezvous Search(Collapsing Lower Bound)" src="https://github.com/user-attachments/assets/8558651e-2fe4-4773-8122-8be09844abc2" />
+
 *(Fig 1. Distance collapses instantly as ROA Field bridges the agents.)*
 
 ### **[B] MATH: Navigating Prime Gaps (The Riemann Connection)**
 * **Problem:** Predicting the chaotic distribution of Prime Numbers.
 * **ROA Solution:** Primes are not random; they are **Resonance Peaks** on the ROA Wave. We do not 'find' primes; we 'surf' to them.
 * **Result:** **100% Alignment** with Phase-Resonance Peaks.
-![Math Graph]
-(img width="1489" height="690" alt="Math-Prime Gap Navigation(Resonance vs Primes)" src="https://github.com/user-attachments/assets/d0b921e1-fef3-409a-a34e-bc3dac2a203a" /)
+<img width="1489" height="690" alt="Math-Prime Gap Navigation(Resonance vs Primes)" src="https://github.com/user-attachments/assets/e7651de9-e151-4ca0-87fb-52feec4f4b6a" />
+
 *(Fig 2. Prime numbers aligning perfectly with ROA Resonance peaks.)*
 
 ### **[C] FLUIDS: Stabilizing Navier-Stokes Turbulence**
 * **Problem:** Velocity blow-up in turbulent fluids (Millennium Prize Problem).
 * **ROA Solution:** The Roughness Field acts as a topological damper, absorbing singularity energy and enforcing regularity.
 * **Result:** **Blow-up Prevented** (Stability Maintained).
-![Fluids Graph]
-(img width="999" height="624" alt="Fluid Dynamics-Navier-Stokes Stability (ROA Damping)" src="https://github.com/user-attachments/assets/59f35b41-1eaf-46e0-b622-6ca22054a70a" /)
+
+<img width="999" height="624" alt="Fluid Dynamics-Navier-Stokes Stability (ROA Damping)" src="https://github.com/user-attachments/assets/df16aceb-edfe-4d62-8e72-d14c94c89956" />
+
 *(Fig 3. Chaotic turbulence is contained and stabilized by the ROA Damping Field.)*
 
 ## 3. The Technology: ROA Trinity Simulator
