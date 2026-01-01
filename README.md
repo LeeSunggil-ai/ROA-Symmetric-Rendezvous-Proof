@@ -51,13 +51,10 @@ def get_field_intensity(t, dimension_idx):
     return abs(np.sin(t * gamma) + 0.5 * np.cos(t / gamma * dimension_idx))
 
 ## 4. The Sanctuary (References)
-
 * **Mathematical Foundation (Paper #6):**
-https://doi.org/10.5281/zenodo.17808956
-
+[View Paper #6 on Zenodo](https://doi.org/10.5281/zenodo.17808956)
 * **Theoretical Application (Paper #1):**
- https://doi.org/10.5281/zenodo.17796131
-
+[View Paper #1 on Zenodo](https://doi.org/10.5281/zenodo.17796131)
 * **Contact:** `leesunggil160@gmail.com` (Busan, Republic of Korea)
-
+---
 *© 2026 Sunggil Lee. All Rights Reserved. This research proposes a topological dual to the Langlands Program.*
